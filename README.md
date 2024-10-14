@@ -5,7 +5,7 @@
 - **Fun fact**: I love to try different things in my life.
 - **Course expectations**: to understand how software systems can be maintained and evolved to remain sustainable, scalable, and adaptable in the long term.
   
-![My Image](My image.jpg) 
+![My Image](My-image.jpg) 
 
 ## GitHub Profile
 
