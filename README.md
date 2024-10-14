@@ -1,1 +1,13 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/O-1AGqKT)
+# Introduction
+
+👨‍💻 **Hi! I'm QingziYu, a Software Engineering student**, currently enrolled in the WIF3005 Software Maintenance and Evolution course. 
+
+- **Fun fact**: I love to try different things in my life.
+- **Course expectations**: to understand how software systems can be maintained and evolved to remain sustainable, scalable, and adaptable in the long term.
+  
+![My Image](My image.jpg) 
+
+## GitHub Profile
+
+You can view my personalized GitHub profile
+[here](https://github.com/qingziyu7).
